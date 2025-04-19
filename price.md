@@ -1,6 +1,6 @@
 # Dummy Price List
 
-## Product Pricing (USD)
+## Product Pricing (USD)q
 
 | Product ID | Product Name         | Category      | Unit Price | Bulk Discount (50+ units) |
 |------------|----------------------|---------------|------------|---------------------------|
